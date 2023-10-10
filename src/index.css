@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar {
+  padding: 20px;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+}
+.navbar a {
+  text-decoration: none;
+  margin: 15px 40px;
+  font-size: 1.5rem;
+  transition: all 0.3s;
+}
+.navbar a:hover{
+  border-bottom: 2px solid black;
+}
+p{
+  font-size: x-large;
+}
